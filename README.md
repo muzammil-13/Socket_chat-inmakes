@@ -66,5 +66,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or issues, feel free to open an issue or contact the repository owner at [muzammil-13](https://github.com/muzammil-13).
 
 ---
-
-Feel free to modify this draft according to your needs!
